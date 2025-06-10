@@ -54,7 +54,7 @@ This project is a **complete redesign** of the WeWantWaste skip selection page, 
 - ✅ **Advanced Card Design**: Gradient backgrounds, shadows, hover effects
 - ✅ **Visual Hierarchy**: Clear information structure with proper typography
 - ✅ **Brand Integration**: Custom RemWaste branding with recycle icon
-- ✅ **Real Skip Images**: Actual WeWantWaste skip photos as backgrounds
+- ✅ **Real Skip Images**: Generated better images for WeWantWaste skip photo as background
 
 ### **📊 Enhanced Content & Information**
 
@@ -88,7 +88,7 @@ This project is a **complete redesign** of the WeWantWaste skip selection page, 
 - Poor mobile experience
 - Fixed sizing issues
 
-** Mobile Experience:**
+**Mobile Experience:**
 
 - ✅ **Fully Responsive Typography**: Scales perfectly across all devices
 - ✅ **Touch-Optimized Interface**: Large tap targets, smooth interactions
@@ -130,8 +130,7 @@ This project is a **complete redesign** of the WeWantWaste skip selection page, 
 | **Filtering**         | None                 | Advanced multi-criteria filtering        |
 | **API Integration**   | Static/basic         | Real-time with error handling            |
 | **User Experience**   | Basic selection      | Smooth animations, visual feedback       |
-| **Branding**          | WeWantWaste only     | Custom RemWaste branding                 |
-| **Accessibility**     | Limited              | WCAG compliant                           |
+| **Accessibility**     | Unkown              | WCAG compliant                           |
 
 ## 💡 Industry-Standard Additions
 
