@@ -1,6 +1,6 @@
 # RemWaste Skip Selector - Enhanced React Application
 
-A completely redesigned and enhanced React application for skip hire selection, dramatically improving upon the original WeWantWaste interface with modern design, enhanced functionality, and superior user experience.
+A redesigned and enhanced React application for skip hire selection, dramatically improving upon the original WeWantWaste interface with modern design, enhanced functionality, and superior user experience.
 
 ## 🎯 Project Overview
 
@@ -17,7 +17,7 @@ This project is a **complete redesign** of the WeWantWaste skip selection page, 
 - No visual hierarchy or modern design patterns
 - Limited mobile optimization
 
-**Our Enhancements:**
+**My Enhancements:**
 
 - ✅ **Modern Light Theme**: Professional, clean design with proper contrast
 - ✅ **Advanced Card Design**: Gradient backgrounds, shadows, hover effects
@@ -57,14 +57,14 @@ This project is a **complete redesign** of the WeWantWaste skip selection page, 
 - Poor mobile experience
 - Fixed sizing issues
 
-**Our Mobile Excellence:**
+** Mobile Experience:**
 
 - ✅ **Fully Responsive Typography**: Scales perfectly across all devices
 - ✅ **Touch-Optimized Interface**: Large tap targets, smooth interactions
 - ✅ **Progressive Enhancement**: Enhanced features on larger screens
 - ✅ **Mobile-First Grid**: 1-column mobile, 2-column tablet, 3-column desktop
 
-### **⚡ Performance & Technical Enhancements**
+### **Performance & Technical Enhancements**
 
 - ✅ **TypeScript**: Full type safety and better developer experience
 - ✅ **Modern React Patterns**: Hooks, functional components, proper state management
