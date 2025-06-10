@@ -31,7 +31,7 @@ A redesigned and enhanced React application for skip hire selection, dramaticall
 ## 🌐 Live Demo
 
 - **GitHub Repository**: https://github.com/YoussefMadkour/REMwaste
-- **CodeSandbox Demo**: https://codesandbox.io/s/github/YoussefMadkour/REMwaste/tree/REMwaste
+- **LiveWebsite (Sandbox) Demo**: https://beige-chinchilla-124851.hostingersite.com/
 
 ## 🎯 Project Overview
 
