@@ -121,7 +121,7 @@ This project is a **complete redesign** of the WeWantWaste skip selection page, 
 ### **Color Palette**
 
 - **Primary**: Professional blue (#3B82F6) for trust and reliability
-- **Secondary**: Yellow (#F59E0B) matching WeWantWaste branding
+- **Secondary**: Yellow (#F59E0B) for energetic 
 - **Accent**: Green (#10B981) for positive actions
 - **Warning**: Amber (#F59E0B) for permit requirements
 
@@ -177,13 +177,6 @@ This redesign transforms a basic skip selection tool into a professional, conver
 - **Enhances Brand Image**: Professional appearance builds trust
 - **Reduces Support Queries**: Clear information reduces confusion
 - **Future-Proof Architecture**: Easy to maintain and extend
-
-## 📱 Browser Support
-
-- Chrome/Edge 90+
-- Firefox 88+
-- Safari 14+
-- Mobile browsers (iOS Safari, Android Chrome)
 
 ## 👨‍💻 Development
 
