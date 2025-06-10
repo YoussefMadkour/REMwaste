@@ -2,6 +2,37 @@
 
 A redesigned and enhanced React application for skip hire selection, dramatically improving upon the original WeWantWaste interface with modern design, enhanced functionality, and superior user experience.
 
+## 🚀 Getting Started
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/YoussefMadkour/REMwaste.git
+   cd REMwaste
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start development server**
+
+   ```bash
+   npm start
+   ```
+
+4. **Build for production**
+   ```bash
+   npm run build
+   ```
+
+## 🌐 Live Demo
+
+- **GitHub Repository**: https://github.com/YoussefMadkour/REMwaste
+- **CodeSandbox Demo**: https://codesandbox.io/s/github/YoussefMadkour/REMwaste/tree/REMwaste
+
 ## 🎯 Project Overview
 
 This project is a **complete redesign** of the WeWantWaste skip selection page, transforming it from a basic dark-themed interface into a modern, professional, and highly functional web application suitable for production use.
@@ -137,36 +168,6 @@ This project is a **complete redesign** of the WeWantWaste skip selection page, 
 - **Buttons**: Clear call-to-action with state changes
 - **Badges**: Color-coded for quick information scanning
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/YoussefMadkour/REMwaste.git
-   cd REMwaste
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Start development server**
-
-   ```bash
-   npm start
-   ```
-
-4. **Build for production**
-   ```bash
-   npm run build
-   ```
-
-## 🌐 Live Demo
-
-- **GitHub Repository**: https://github.com/YoussefMadkour/REMwaste
-- **CodeSandbox Demo**: https://codesandbox.io/s/github/YoussefMadkour/REMwaste/tree/REMwaste
 
 ## 🎯 Business Impact
 
